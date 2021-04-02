@@ -1,0 +1,15 @@
+[package]
+name = "advent-of-code-2020"
+version = "0.1.0"
+authors = ["richard.gibson <rggibson@deloitte.co.uk>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+aoc-runner = "0.3.0"
+aoc-runner-derive = "0.3.0"
+lazy_static = "1"
+regex = "1"
+itertools = "0.9.0"
+tramp = "0.3.0"
